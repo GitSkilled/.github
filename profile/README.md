@@ -1,19 +1,24 @@
-# GitHub-All-In
+## We are All In
 
-Welcome to the **GitHub All In** repository, an initiative focused on promoting **skilling, equity, and community** through open source. This repository serves as a central hub for all resources, partnerships, and learning paths related to the **GitHub All In** program.
+### A community dedicated to advancing diversity, equity, and inclusion within open source.
 
+Welcome to the **GitHub All In** organization, an initiative focused on promoting **skilling, equity, and community** through open source. This organization serves as a central hub for all resources, partnerships, and learning paths related to the **GitHub All In** program.
+
+To learn more about the Github All In project, please visit the [About-All-In](https://github.com/All-In-Open-Source-Project/About-All-In) repository where we share an in-depth collection of documentation and resources to enable and empower open source developers. 
 
 ## About GitHub All In
 
 **GitHub All In** aims to lower barriers to entry and provide clear, accessible pathways for aspiring developers and contributors to open source from underrepresented backgrounds and regions. Through a carefully curated curriculum, we empower individuals at every stage of their journey to contribute to open source projects, helping them develop both the technical and ethical skills needed to drive positive social change. Our goal is to cultivate a community of socially conscious developers who create technology that benefits everyone and contributes to a world where all can thrive.
 
-Explore the learning paths available through GitHub All In. Whether you're taking your first steps as a developer or looking to deepen your understanding of open source, these free, self-paced courses are designed to help you become an expert in open source, GitHub, and AI.
-
 ### Our Pillars:
+
 GitHub All In Open Source spans across three pillars of programming:
 - **Skilling**: Offering resources to upskill developers, from newcomers to advanced professionals.
 - **Equity**: Promoting diversity and inclusion in the tech ecosystem, ensuring equitable access to opportunities for all.
 - **Community**: Building a global, inclusive open-source community through partnerships, mentorship, and collaboration.
+ce and AI. We aim to bridge the opportunity gap by providing resources, support, and collaborative platforms that enable meaningful participation and individual growth, fostering a shared commitment to skill development and inclusive tech advancement.
+
+We strive to change the face of developers by creating a world where everyone, regardless of background, has the opportunity to thrive in the open source and AI industries. We envision a future where diverse voices drive innovation and where a global community of socially conscious developers collaborate seamlessly to solve complex challenges and shape technology for the common good.
 
 ### Our Mission:
 Our mission is to empower individuals from all backgrounds through accessible, equitable education in open source and AI. We aim to bridge the opportunity gap by providing resources, support, and collaborative platforms that enable meaningful participation and individual growth, fostering a shared commitment to skill development and inclusive tech advancement.
@@ -42,9 +47,9 @@ We’ve built core values that serve as the foundation across our pillars of wor
 
 ## GitHub All In Team
 Sarah Oyetubo -  GitHub Sr. Diversity, Inclusion and Belonging Program Manager, GitHub Social Impact Skilling, Equity and Community Lead, and GitHub All In Project Maintainer  
-Elizabeth Barron - External Role, GitHub All In Europe and North America Skills Success Advisor and Community Lead 
-Selene Yang - External Role, GitHub All In Latin America and Caribbean Skills Success Advisor and Community Lead 
-Ruth Ikegah -   External Role, GitHub All In Africa Skills Success Advisor and Community Lead 
+Elizabeth Barron - Regional Skills Success Advisor, GitHub All In Europe and North America and Community Lead 
+Selene Yang - GitHub Latín America & the Caribbean Skills Success Advisor, GitHub All In Latin America and Caribbean Skills Success Advisor and Community Lead 
+Ruth Ikegah -  GitHub All In Africa Skills Success Advisor and Community Lead 
 
 
 ## Our Partners
@@ -54,7 +59,7 @@ These partners are helping us reach developers across the globe, with a focus on
 
 ### Global Partner(s)
 
-- [Goodwall] -  
+- [Goodwall](https://www.goodwall.io/) - Goodwall is a skills-focused social network that empowers more than two million young talents to level up in life by building, showcasing, and leveraging their skills to access valuable learning and earning opportunities.
   
 
 ## Get Involved
@@ -74,12 +79,12 @@ We encourage developers, mentors, educators, and organizations to join the **Git
 
 To learn more about our three main partnership opportunities, click [here](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/partners.md).
 
-Please follow our [Code of Conduct](#) when participating in the community.
+Please follow our [Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct) when participating in the community.
 
 
 ## License
 
-This repository is licensed under the [MIT License](#).
+This repository is licensed under the [MIT License](https://mit-license.org/).
 
 ---
 
