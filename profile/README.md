@@ -46,10 +46,10 @@ We’ve built core values that serve as the foundation across our pillars of wor
 
 
 ## GitHub All In Team
-Sarah Oyetubo -  GitHub Sr. Diversity, Inclusion and Belonging Program Manager, GitHub Social Impact Skilling, Equity and Community Lead, and GitHub All In Project Maintainer  
-Elizabeth Barron - Regional Skills Success Advisor, GitHub All In Europe and North America and Community Lead 
-Selene Yang - GitHub Latín America & the Caribbean Skills Success Advisor, GitHub All In Latin America and Caribbean Skills Success Advisor and Community Lead 
-Ruth Ikegah -  GitHub All In Africa Skills Success Advisor and Community Lead 
+- Sarah Oyetubo -  GitHub Sr. Diversity, Inclusion and Belonging Program Manager, GitHub Social Impact Skilling, Equity and Community Lead, and GitHub All In Project Maintainer  
+- Elizabeth Barron - Regional Skills Success Advisor, GitHub All In Europe and North America and Community Lead 
+- Selene Yang - GitHub Latín America & the Caribbean Skills Success Advisor, GitHub All In Latin America and Caribbean Skills Success Advisor and Community Lead 
+- Ruth Ikegah -  GitHub All In Africa Skills Success Advisor and Community Lead 
 
 
 ## Our Partners
