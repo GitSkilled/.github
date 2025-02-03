@@ -1,4 +1,4 @@
-## We are All In
+## We are All In <img src="https://avatars.githubusercontent.com/u/189777612?s=200&v=4" width="20" height="20" />
 
 ### A community dedicated to advancing diversity, equity, and inclusion within open source.
 
@@ -10,7 +10,7 @@ To learn more about the Github All In project, please visit the [About-All-In](h
 
 **GitHub All In** aims to lower barriers to entry and provide clear, accessible pathways for aspiring developers and contributors to open source from underrepresented backgrounds and regions. Through a carefully curated curriculum, we empower individuals at every stage of their journey to contribute to open source projects, helping them develop both the technical and ethical skills needed to drive positive social change. Our goal is to cultivate a community of socially conscious developers who create technology that benefits everyone and contributes to a world where all can thrive.
 
-### Our Pillars:
+### Our Pillars 💪🏾:
 
 GitHub All In Open Source spans across three pillars of programming:
 - **Skilling**: Offering resources to upskill developers, from newcomers to advanced professionals.
@@ -20,13 +20,13 @@ ce and AI. We aim to bridge the opportunity gap by providing resources, support,
 
 We strive to change the face of developers by creating a world where everyone, regardless of background, has the opportunity to thrive in the open source and AI industries. We envision a future where diverse voices drive innovation and where a global community of socially conscious developers collaborate seamlessly to solve complex challenges and shape technology for the common good.
 
-### Our Mission:
+### Our Mission 🎯:
 Our mission is to empower individuals from all backgrounds through accessible, equitable education in open source and AI. We aim to bridge the opportunity gap by providing resources, support, and collaborative platforms that enable meaningful participation and individual growth, fostering a shared commitment to skill development and inclusive tech advancement.
 
 We strive to change the face of developers by creating a world where everyone, regardless of background, has the opportunity to thrive in the open source and AI industries. We envision a future where diverse voices drive innovation and where a global community of socially conscious developers collaborate seamlessly to solve complex challenges and shape technology for the common good.
 
 
-### Our Values:
+### Our Values  💎:
 We’ve built core values that serve as the foundation across our pillars of work. With these guiding principles in mind, we aim to build our community with developers, for developers.
 
 1. **Inclusivity**:  
@@ -45,14 +45,14 @@ We’ve built core values that serve as the foundation across our pillars of wor
    We believe in the strength of a connected community. By nurturing a supportive network of learners and professionals, we aim to create an environment where knowledge is shared, relationships are built, and collective progress is achieved.
 
 
-## GitHub All In Team
+## GitHub All In Team  👥👥
 - Sarah Oyetubo -  GitHub Sr. Diversity, Inclusion and Belonging Program Manager, GitHub Social Impact Skilling, Equity and Community Lead, and GitHub All In Project Maintainer  
 - Elizabeth Barron - Regional Skills Success Advisor, GitHub All In Europe and North America and Community Lead 
 - Selene Yang - GitHub Latín America & the Caribbean Skills Success Advisor, GitHub All In Latin America and Caribbean Skills Success Advisor and Community Lead 
 - Ruth Ikegah -  GitHub All In Africa Skills Success Advisor and Community Lead 
 
 
-## Our Partners
+## Our Partners 🤝🏽
 
 We are proud to partner with a wide range of organizations to support our mission. 
 These partners are helping us reach developers across the globe, with a focus on **Latin America and Caribbean**, **Africa**, and **underrepresented communities in North America and Europe**. Some of our partners include:
@@ -66,12 +66,12 @@ These partners are helping us reach developers across the globe, with a focus on
 
 We encourage developers, mentors, educators, and organizations to join the **GitHub All In** community. Here's how you can get involved:
 
-### For Developers (Future and Professional):
+### For Developers (Future and Professional) 🧑‍💻:
 
 1. Explore our [learning paths](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/curriculum.md).
 2. Join our [regional community of learners](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/communities.md).
 
-### For Partners:
+### For Partners 👥:
 
 1. **Sponsor:** Invest in talent, empower the future
 2. **Community:** In-kind donations and services
@@ -82,7 +82,7 @@ To learn more about our three main partnership opportunities, click [here](https
 Please follow our [Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct) when participating in the community.
 
 
-## License
+## License 📜
 
 This repository is licensed under the [MIT License](https://mit-license.org/).
 
