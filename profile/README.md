@@ -1,10 +1,16 @@
+<p align="center">
+  <br/>
+  <a href="https://allinopensource.org/">Website</a> | <a href="https://x.com/AllInOpenSource">X</a> | <a href="https://www.youtube.com/channel/UC0Au0bMgyOpUM9WKm29G95w">YouTube</a> 
+  <br/>
+</p>
+
 ## We are All In <img src="https://avatars.githubusercontent.com/u/189777612?s=200&v=4" width="20" height="20" />
 
 ### A community dedicated to advancing diversity, equity, and inclusion within open source.
 
 Welcome to the **GitHub All In** organization, an initiative focused on promoting **skilling, equity, and community** through open source. This organization serves as a central hub for all resources, partnerships, and learning paths related to the **GitHub All In** program.
 
-To learn more about the Github All In project, please visit the [About-All-In](https://github.com/All-In-Open-Source-Project/About-All-In) repository where we share an in-depth collection of documentation and resources to enable and empower open source developers. 
+To learn more about the Github All In project, please visit the [About-All-In](https://github.com/All-In-Open-Source-Project/About-All-In) repository, where we share an in-depth collection of documentation and resources to enable and empower open source developers. 
 
 ## About GitHub All In
 
@@ -30,10 +36,10 @@ We strive to change the face of developers by creating a world where everyone, r
 We’ve built core values that serve as the foundation across our pillars of work. With these guiding principles in mind, we aim to build our community with developers, for developers.
 
 1. **Inclusivity**:  
-   We aim to create opportunities for everyone to get involved and succeed in open source and AI. We do this by making our resources accessible, localized, and personalized. Our focus on inclusivity ensures that all voices are heard, barriers are removed, and developers stay with us because they feel welcomed and valued.
+   We aim to create opportunities for everyone to get involved and succeed in open source and AI by making our resources accessible, localized, and personalized. Our focus on inclusivity ensures that all voices are heard, barriers are removed, and developers stay with us because they feel welcomed and valued.
 
 2. **Collaboration**:  
-   We believe that collaboration and partnerships drive innovation and learning. By teaming up with individuals, organizations, communities, and teams at GitHub and Microsoft, we work together to reach common goals and support each other’s growth. 
+   We believe that collaboration and partnerships drive innovation and learning. By teaming up with individuals, organizations, communities, and teams at GitHub and Microsoft, we reach common goals and support each other’s growth. 
 
 3. **Empowerment**:  
    We are dedicated to empowering learners through accessible education and resources. Our aim is to build confidence and competence, enabling individuals to take ownership of their learning journey and contribute meaningfully to the field.
@@ -46,16 +52,34 @@ We’ve built core values that serve as the foundation across our pillars of wor
 
 
 ## GitHub All In Team  👥👥
-- Sarah Oyetubo -  GitHub Sr. Diversity, Inclusion and Belonging Program Manager, GitHub Social Impact Skilling, Equity and Community Lead, and GitHub All In Project Maintainer  
-- Elizabeth Barron - Regional Skills Success Advisor, GitHub All In Europe and North America and Community Lead 
-- Selene Yang - GitHub Latín America & the Caribbean Skills Success Advisor, GitHub All In Latin America and Caribbean Skills Success Advisor and Community Lead 
-- Ruth Ikegah -  GitHub All In Africa Skills Success Advisor and Community Lead 
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/soyetubo"><img src="https://avatars.githubusercontent.com/u/70516588?v=4" width="100px;" alt=""/><br /><sub><b>Sarah Oyetubo</b></sub></a></td>
+    <td>GitHub Sr. Diversity, Inclusion and Belonging Program Manager, GitHub Social Impact Skilling, Equity and Community Lead, and GitHub All In Project Maintainer.</td>
+  </tr>
+   <tr>
+    <td align="center"><a href="https://github.com/ElizabethN"><img src="https://avatars.githubusercontent.com/u/57594?v=4" width="100px;" alt=""/><br /><sub><b>Elizabeth Barron</b></sub></a></td>
+    <td>Strategic Alliance Development Lead.</td>
+  </tr>
+   <tr>
+    <td align="center"><a href="https://github.com/seleneyang"><img src="https://avatars.githubusercontent.com/u/20440464?v=4" width="100px;" alt=""/><br /><sub><b>Selene Yang</b></sub></a></td>
+    <td>GitHub Latín America & the Caribbean Skills Success Advisor, GitHub All In Latin America and Caribbean Skills Success Advisor and Community Lead.</td>
+  </tr>
+   <tr>
+    <td align="center"><a href="https://github.com/Ruth-ikegah"><img src="https://avatars.githubusercontent.com/u/62059002?v=4" width="100px;" alt=""/><br /><sub><b>Ruth Ikegah</b></sub></a></td>
+    <td>GitHub All In Africa Skills Success Advisor and Community Lead.</td>
+  </tr>
+   <tr>
+    <td align="center"><a href="https://github.com/Grammaresque"><img src="https://avatars.githubusercontent.com/u/119525559?v=4" width="100px;" alt=""/><br /><sub><b>Krista Burdine</b></sub></a></td>
+    <td>Regional Skills Success Advisor, GitHub All In Europe and North America, and Community Lead.</td>
+  </tr>
+</table>
 
 
 ## Our Partners 🤝🏽
 
 We are proud to partner with a wide range of organizations to support our mission. 
-These partners are helping us reach developers across the globe, with a focus on **Latin America and Caribbean**, **Africa**, and **underrepresented communities in North America and Europe**. Some of our partners include:
+These partners are helping us reach developers across the globe, with a focus on **Latin America and the Caribbean**, **Africa**, and **underrepresented communities in North America and Europe**. Some of our partners include:
 
 ### Global Partner(s)
 
