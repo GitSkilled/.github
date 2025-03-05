@@ -6,11 +6,11 @@
 
 ## We are GitSkilled <img src="https://avatars.githubusercontent.com/u/189777612?s=200&v=4" width="20" height="20" />
 
-### A community dedicated to advancing diversity, equity, and inclusion within open source.
+### A global community dedicated to growing socially conscious developers around the world.
 
-Welcome to the **GitSkilled** organization, an initiative focused on promoting **skilling, equity, and community** through open source. This organization serves as a central hub for all resources, partnerships, and learning paths related to the **GitHub All In** program.
+Welcome to the **GitSkilled** organization, an initiative focused on promoting **skilling, equity and community** through open source. This organization serves as a central hub for all resources, partnerships, and learning paths related to the **GitSkilled** program.
 
-To learn more about the Github GitSkilled project, please visit the [About-GitSkilled](https://github.com/GitSkilled/About-GitSkilled) repository, where we share an in-depth collection of documentation and resources to enable and empower open source developers. 
+To learn more about GitHub's GitSkilled project, please visit the [About-GitSkilled](https://github.com/GitSkilled/About-GitSkilled) repository, where we share an in-depth collection of documentation and resources to enable and empower open source developers. 
 
 ## About GitSkilled
 
@@ -35,20 +35,18 @@ We strive to change the face of developers by creating a world where everyone, r
 ### Our Values  💎:
 We’ve built core values that serve as the foundation across our pillars of work. With these guiding principles in mind, we aim to build our community with developers, for developers.
 
-1. **Inclusivity**:  
-   We aim to create opportunities for everyone to get involved and succeed in open source and AI by making our resources accessible, localized, and personalized. Our focus on inclusivity ensures that all voices are heard, barriers are removed, and developers stay with us because they feel welcomed and valued.
 
-2. **Collaboration**:  
-   We believe that collaboration and partnerships drive innovation and learning. By teaming up with individuals, organizations, communities, and teams at GitHub and Microsoft, we reach common goals and support each other’s growth. 
+1. **Inclusivity**: We aim to create opportunities for everyone to get involved and succeed in open source and AI. We do this by making our resources accessible, localized, and personalized. Our focus on inclusivity ensures that all voices are heard, barriers are removed, and developers stay with us because they feel welcomed and valued.
 
-3. **Empowerment**:  
-   We are dedicated to empowering learners through accessible education and resources. Our aim is to build confidence and competence, enabling individuals to take ownership of their learning journey and contribute meaningfully to the field.
+2. **Collaboration**: We believe that collaboration and partnerships drive innovation and learning. By teaming up with individuals, organizations, communities, and teams at GitHub and Microsoft, we work together to reach common goals and support each other’s growth.  
 
-4. **Equity**:  
-   We are committed to addressing disparities and promoting fairness in tech. Our focus on equity drives us to ensure that everyone has equal access to opportunities and resources, regardless of their starting point.
+3. **Empowerment**: We are dedicated to empowering learners through accessible education and resources. Our aim is to build confidence and competence, enabling individuals to take ownership of their learning journey and contribute meaningfully to the field.
 
-5. **Community**:  
-   We believe in the strength of a connected community. By nurturing a supportive network of learners and professionals, we aim to create an environment where knowledge is shared, relationships are built, and collective progress is achieved.
+4. **Individualization**: We are committed to meeting people where they are in the world, in their learning journey, and in their individual experiences. Our focus on equity drives us to ensure that everyone has access to opportunities and resources, regardless of their starting point.
+
+5. **Community**: We believe in the strength of a connected community. By nurturing a supportive network of learners and professionals, we aim to create an environment where knowledge is shared, relationships are built, and collective progress is achieved.
+
+6. **Alignment**: We believe that aligning with the values and strategies outlined by Microsoft and GitHub (with a priority on open source) allows for a more effective use of resources and a scaled approach to the mutual achievement of goals.
 
 
 ## GitSkilled Team  👥👥
