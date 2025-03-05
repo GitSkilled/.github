@@ -10,7 +10,7 @@
 
 Welcome to the **GitHub All In** organization, an initiative focused on promoting **skilling, equity, and community** through open source. This organization serves as a central hub for all resources, partnerships, and learning paths related to the **GitHub All In** program.
 
-To learn more about the Github All In project, please visit the [About-All-In](https://github.com/All-In-Open-Source-Project/About-All-In) repository, where we share an in-depth collection of documentation and resources to enable and empower open source developers. 
+To learn more about the Github GitSkilled project, please visit the [About-GitSkilled]([https://github.com/All-In-Open-Source-Project/About-All-In](https://github.com/GitSkilled/About-GitSkilled)) repository, where we share an in-depth collection of documentation and resources to enable and empower open source developers. 
 
 ## About GitHub All In
 
