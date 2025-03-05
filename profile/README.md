@@ -12,13 +12,13 @@ Welcome to the **GitSkilled** organization, an initiative focused on promoting *
 
 To learn more about the Github GitSkilled project, please visit the [About-GitSkilled](https://github.com/GitSkilled/About-GitSkilled) repository, where we share an in-depth collection of documentation and resources to enable and empower open source developers. 
 
-## About GitHub All In
+## About GitSkilled
 
-**GitHub All In** aims to lower barriers to entry and provide clear, accessible pathways for aspiring developers and contributors to open source from underrepresented backgrounds and regions. Through a carefully curated curriculum, we empower individuals at every stage of their journey to contribute to open source projects, helping them develop both the technical and ethical skills needed to drive positive social change. Our goal is to cultivate a community of socially conscious developers who create technology that benefits everyone and contributes to a world where all can thrive.
+**GitSkilled** aims to lower barriers to entry and provide clear, accessible pathways for aspiring developers and contributors to open source from underrepresented backgrounds and regions. Through a carefully curated curriculum, we empower individuals at every stage of their journey to contribute to open source projects, helping them develop both the technical and ethical skills needed to drive positive social change. Our goal is to cultivate a community of socially conscious developers who create technology that benefits everyone and contributes to a world where all can thrive.
 
 ### Our Pillars 💪🏾:
 
-GitHub All In Open Source spans across three pillars of programming:
+GitSkilled In Open Source spans across three pillars of programming:
 - **Skilling**: Offering resources to upskill developers, from newcomers to advanced professionals.
 - **Equity**: Promoting diversity and inclusion in the tech ecosystem, ensuring equitable access to opportunities for all.
 - **Community**: Building a global, inclusive open-source community through partnerships, mentorship, and collaboration.
@@ -51,27 +51,27 @@ We’ve built core values that serve as the foundation across our pillars of wor
    We believe in the strength of a connected community. By nurturing a supportive network of learners and professionals, we aim to create an environment where knowledge is shared, relationships are built, and collective progress is achieved.
 
 
-## GitHub All In Team  👥👥
+## GitSkilled Team  👥👥
 <table>
   <tr>
     <td align="center"><a href="https://github.com/soyetubo"><img src="https://avatars.githubusercontent.com/u/70516588?v=4" width="100px;" alt=""/><br /><sub><b>Sarah Oyetubo</b></sub></a></td>
-    <td>GitHub Sr. Diversity, Inclusion and Belonging Program Manager, GitHub Social Impact Skilling, Equity and Community Lead, and GitHub All In Project Maintainer.</td>
+    <td>GitHub Sr. Diversity, Inclusion and Belonging Program Manager, GitHub Social Impact Skilling, Equity and Community Lead, and GitSkilled Project Maintainer.</td>
   </tr>
    <tr>
     <td align="center"><a href="https://github.com/ElizabethN"><img src="https://avatars.githubusercontent.com/u/57594?v=4" width="100px;" alt=""/><br /><sub><b>Elizabeth Barron</b></sub></a></td>
-    <td>Strategic Alliance Development Lead.</td>
+    <td> GitSkilled Strategic Alliance Development Lead.</td>
   </tr>
    <tr>
     <td align="center"><a href="https://github.com/seleneyang"><img src="https://avatars.githubusercontent.com/u/20440464?v=4" width="100px;" alt=""/><br /><sub><b>Selene Yang</b></sub></a></td>
-    <td>GitHub Latín America & the Caribbean Skills Success Advisor, GitHub All In Latin America and Caribbean Skills Success Advisor and Community Lead.</td>
+    <td>GitSkilled Latín America & the Caribbean Skills Success Advisor, GitHub All In Latin America and Caribbean Skills Success Advisor and Community Lead.</td>
   </tr>
    <tr>
     <td align="center"><a href="https://github.com/Ruth-ikegah"><img src="https://avatars.githubusercontent.com/u/62059002?v=4" width="100px;" alt=""/><br /><sub><b>Ruth Ikegah</b></sub></a></td>
-    <td>GitHub All In Africa Skills Success Advisor and Community Lead.</td>
+    <td>GitSkilled Africa Skills Success Advisor and Community Lead.</td>
   </tr>
    <tr>
     <td align="center"><a href="https://github.com/Grammaresque"><img src="https://avatars.githubusercontent.com/u/119525559?v=4" width="100px;" alt=""/><br /><sub><b>Krista Burdine</b></sub></a></td>
-    <td>Regional Skills Success Advisor, GitHub All In Europe and North America, and Community Lead.</td>
+    <td> GitSkilled Europe and North America Regional Skills Success Advisor and Community Lead.</td>
   </tr>
 </table>
 
