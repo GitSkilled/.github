@@ -61,7 +61,7 @@ We’ve built core values that serve as the foundation across our pillars of wor
   </tr>
    <tr>
     <td align="center"><a href="https://github.com/seleneyang"><img src="https://avatars.githubusercontent.com/u/20440464?v=4" width="100px;" alt=""/><br /><sub><b>Selene Yang</b></sub></a></td>
-    <td>GitSkilled Latín America & the Caribbean Skills Success Advisor, GitHub All In Latin America and Caribbean Skills Success Advisor and Community Lead.</td>
+    <td>GitSkilled Latín America & the Caribbean Skills Success Advisor and Community Lead.</td>
   </tr>
    <tr>
     <td align="center"><a href="https://github.com/Ruth-ikegah"><img src="https://avatars.githubusercontent.com/u/62059002?v=4" width="100px;" alt=""/><br /><sub><b>Ruth Ikegah</b></sub></a></td>
