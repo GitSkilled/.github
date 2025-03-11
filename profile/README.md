@@ -4,7 +4,7 @@
   <br/>
 </p>
 
-## We are GitSkilled <img src="https://avatars.githubusercontent.com/u/189777612?s=200&v=4" width="20" height="20" />
+## We are GitSkilled <img src="https://avatars.githubusercontent.com/u/189777612?s=200&v=4" width="30" height="30" />
 
 ### A global community dedicated to growing socially conscious developers around the world.
 
@@ -14,7 +14,7 @@ To learn more about GitHub's GitSkilled project, please visit the [About-GitSkil
 
 ## About GitSkilled
 
-**GitSkilled** aims to lower barriers to entry and provide clear, accessible pathways for aspiring developers and contributors to open source from underrepresented backgrounds and regions. Through a carefully curated curriculum, we empower individuals at every stage of their journey to contribute to open source projects, helping them develop both the technical and ethical skills needed to drive positive social change. Our goal is to cultivate a community of socially conscious developers who create technology that benefits everyone and contributes to a world where all can thrive.
+**GitSkilled** aims to lower barriers to entry and provide clear, accessible pathways for aspiring developers and contributors from underrepresented backgrounds and regions to open source. Through a carefully curated curriculum, we empower individuals at every stage of their journey to contribute to open source projects, helping them develop both the technical and ethical skills needed to drive positive social change. Our goal is to cultivate a community of socially conscious developers who create technology that benefits everyone and contributes to a world where all can thrive.
 
 ### Our Pillars 💪🏾:
 
@@ -36,7 +36,7 @@ We strive to change the face of developers by creating a world where everyone, r
 We’ve built core values that serve as the foundation across our pillars of work. With these guiding principles in mind, we aim to build our community with developers, for developers.
 
 
-1. **Inclusivity**: We aim to create opportunities for everyone to get involved and succeed in open source and AI. We do this by making our resources accessible, localized, and personalized. Our focus on inclusivity ensures that all voices are heard, barriers are removed, and developers stay with us because they feel welcomed and valued.
+1. **Inclusivity**: We aim to create opportunities for everyone to get involved and succeed in open source and AI by making our resources accessible, localized, and personalized. Our focus on inclusivity ensures that all voices are heard, barriers are removed, and developers stay with us because they feel welcomed and valued.
 
 2. **Collaboration**: We believe that collaboration and partnerships drive innovation and learning. By teaming up with individuals, organizations, communities, and teams at GitHub and Microsoft, we work together to reach common goals and support each other’s growth.  
 
@@ -110,7 +110,7 @@ This repository is licensed under the [MIT License](https://mit-license.org/).
 
 ---
 
-Thank you for supporting the **GitHub All In** initiative!
+Thank you for supporting the **GitHub GitSkilled** initiative!
 
 For any inquiries or partnership opportunities, please [contact us](mailto:info@allinopensource.org).
 
