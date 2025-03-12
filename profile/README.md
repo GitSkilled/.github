@@ -1,9 +1,9 @@
 <p align="center"> <img src="https://github.com/GitSkilled/.github/blob/main/gitSkilled_full_colored.png" /></p>
-<p align="center">
+<!--- <p align="center">
   <br/>
-  <a href="https://allinopensource.org/">Website</a> | <a href="https://x.com/AllInOpenSource">X</a> | <a href="https://www.youtube.com/channel/UC0Au0bMgyOpUM9WKm29G95w">YouTube</a> 
+   <a href="https://allinopensource.org/">Website</a> | <a href="https://x.com/AllInOpenSource">X</a> | <a href="https://www.youtube.com/channel/UC0Au0bMgyOpUM9WKm29G95w">YouTube</a> 
   <br/>
-</p>
+</p> --->
 
 ## We are GitSkilled <img src="https://avatars.githubusercontent.com/u/189777612?s=200&v=4" width="30" height="30" />
 
