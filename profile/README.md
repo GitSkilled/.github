@@ -83,6 +83,11 @@ These partners are helping us reach developers across the globe, with a focus on
 ### Global Partner(s)
 
 - [Goodwall](https://www.goodwall.io/) - Goodwall is a skills-focused social network that empowers more than two million young talents to level up in life by building, showcasing, and leveraging their skills to access valuable learning and earning opportunities.
+
+#### Education Partners
+
+<img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/GK-Primary-12-01-21.png" width=300 alt="geekulcha logo">
+
   
 
 ## Get Involved
