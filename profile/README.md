@@ -86,10 +86,13 @@ These partners are helping us reach developers across the globe, with a focus on
 
 #### Education Partners
 
-<img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/GK-Primary-12-01-21.png" width=300 alt="geekulcha logo">
-<img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/SCA%20Logo%20-%20White%20background.png" width=100 alt="she code africa logo">
-
-  
+<table>
+  <tr>
+    <td><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/GK-Primary-12-01-21.png" width=100 alt="geekulcha logo"></td>
+    <td><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/Journotech%20LOGO.jpg" width=100 alt=journotech logo"></td>
+    <td><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/SCA%20Logo%20-%20White%20background.png" width=75 alt="she code africa logo"></td>
+  </tr>
+</table>
 
 ## Get Involved
 
