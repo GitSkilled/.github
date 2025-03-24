@@ -72,19 +72,26 @@ We’ve built core values that serve as the foundation across our pillars of wor
 We are proud to partner with a wide range of organizations to support our mission. 
 These partners are helping us reach developers across the globe, with a focus on **Latin America**, **Africa**, and **underrepresented communities in North America and Europe**. Some of our partners include:
 
-### Global Partners
+### Education Partners
 
-- [Goodwall] - A description of the partner’s work.
-
-### Regional Partners
-#### North America 
-- ( COMMING SOON ) 
+<table>
+  <tr>
+    <td><a href="https://geekulcha.dev/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/GK-Primary-12-01-21.png" width=300 alt="geekulcha logo"></a></td>
+    <td><a href="https://journotech.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/Journotech%20LOGO.jpg" width=300 alt="journotech logo"></a></td>
+    <td><a href="https://shecodeafrica.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/SCA%20Logo%20-%20White%20background.png" width=200 alt="she code africa logo"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://createherfest.com"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/CreateHER%20Fest%20-%20Horizontal-Black%20w%20Color.png" width=300 alt="createherfest logo"></a></td>
+    <td><a href="https://ananindeua.ifpa.edu.br/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/IFPA%20campus%20ananindeua.png" width=300 alt="federal university of para logo"></a></td>
+    <td><a href="https://ourtdev.org"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/ORIGINAL%20TDEV%20LOGO_No%20Bg.PNG" width=300 alt="TDev Logo"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://womakerscode.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/versao%20oficial.png" width=300 alt="womakers code logo"></a></td>
+    <td></td>
+    <td></td>
+  </tr>
   
-#### Latin America / Caribbean 
-- ( COMING SOON )
-
-#### Africa
-- ( COMING SOON )
+</table>
   
 
 ## Get Involved
