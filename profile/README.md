@@ -99,7 +99,7 @@ These partners are helping us reach developers across the globe, with a focus on
   </tr>
   <tr>
     <td><a href="https://womakerscode.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/versao%20oficial.png" width=300 alt="womakers code logo"></a></td>
-    <td></td>
+    <td><a href="https://angolaosc.org"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/logo-4x.png" width=200 alt="angola open source logo"></a></td>
     <td></td>
   </tr>
   
