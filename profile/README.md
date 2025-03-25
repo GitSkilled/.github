@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/GitSkilled/.github/blob/main/photos/gitskilled_global_white_bg.jpg" /></p>
+<p align="center"> <img src="https://github.com/GitSkilled/.github/blob/main/photos/Global.jpg" /></p>
 <!--- <p align="center">
   <br/>
    <a href="https://allinopensource.org/">Website</a> | <a href="https://x.com/AllInOpenSource">X</a> | <a href="https://www.youtube.com/channel/UC0Au0bMgyOpUM9WKm29G95w">YouTube</a> 
