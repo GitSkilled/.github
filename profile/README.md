@@ -143,6 +143,8 @@ This repository is licensed under the [MIT License](https://mit-license.org/).
 
 Thank you for supporting the **GitHub GitSkilled** initiative!
 
-For any inquiries or partnership opportunities, please [contact us](mailto:info@allinopensource.org).
+For any inquiries or partnership opportunities, please reach out to us by [opening an issue in the About Us](https://github.com/GitSkilled/About-GitSkilled/issues) repository.
+
+Please note: Partnership opportunities will open again in August 2025.
 
 
