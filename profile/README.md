@@ -109,7 +109,7 @@ These partners are helping us reach developers across the globe, with a focus on
   <tr>
     <td><a href="http://escueladedatos.online/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/SCODA_ES_HORIZONTAL_BLUE.png" width=300 alt="escuela de datos logo"></a></td>
     <td><a href="https://unicamp.br/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/Logo_Unicamp__0.jpg" width=200 alt="unicamp logo"></a></td>
-    
+    <td><a href="https://ok.org.br/" ><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/okr-logo-vertical.svg" width=200 alt="Open Knowledge Brazil logo" ></a></td>
     
   </tr>
 </table>
