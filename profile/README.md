@@ -117,7 +117,7 @@ These partners are helping us reach developers across the globe, with a focus on
 
 ## Get Involved
 
-We encourage developers, mentors, educators, and organizations to join the **GitHub All In** community. Here's how you can get involved:
+We encourage developers, mentors, educators, and organizations to join the **GitHub GitSkilled** community. Here's how you can get involved:
 
 ### For Developers (Future and Professional) 🧑‍💻:
 
